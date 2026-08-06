@@ -13,4 +13,8 @@
 |60|CCTV|
 |65|DMZ|
 |70|honey pot|
-
+|75|wireless|
+|80|voip|
+|85|red team|
+|90|lab|
+|95|
