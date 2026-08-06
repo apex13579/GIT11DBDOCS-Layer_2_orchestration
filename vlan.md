@@ -10,3 +10,7 @@
 |40|trusted|
 |45|print|
 |50|OOB|
+|60|CCTV|
+|65|DMZ|
+|70|honey pot|
+
