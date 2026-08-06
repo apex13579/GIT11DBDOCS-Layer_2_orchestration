@@ -1,1 +1,10 @@
-
+|vlan|use|
+|---|---|
+|05|management
+|10|storage|
+|15|backend|
+|20|infrastructure|
+|25|media|
+|30|guest|
+|35|iot|
+|40|trusted|
