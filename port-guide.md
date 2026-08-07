@@ -106,16 +106,47 @@
 9. uplink to poe switch
 
 # livingroom switch
+- USW-Flex-2.5G-5
+1. t.v.
+2. switch dock
+3.
+4.
+5. uplink to poe switch
 # viewing room switch
+- USW-Flex-2.5G-5
+1. t.v.
+2. network printer
+3. switch dock
+4.
+5. uplink to poe switch
 # bedroom 1 switch
+- USW-Flex-2.5G-5
+1. t.v.
+2. switch dock
+3.
+4.
+5. uplink to poe switch
 # bedroom 2 switch
+- USW-Flex-2.5G-5
+1. t.v.
+2. pc uplink
+3. switch dock
+4.
+5. uplink to poe switch
 # bedroom 3 switch
+- USW-Flex-2.5G-5
+1. t.v.
+2. pc uplink
+3. switch dock
+4.
+5. uplink to poe switch
 # bedroom 4 switch
-
-
-
-
-
+- USW-Flex-2.5G-5
+1. t.v.
+2. pc uplink
+3. switch dock
+4.
+5. uplink to poe switch
 
 
 
