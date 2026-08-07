@@ -66,6 +66,59 @@
 48.
 - sfp ports
 49.
-50.
-51. 
+50. uplink to shop 
+51. uplink to media rack
 52. Uplink to main rack
+
+# media rack
+## USW-Pro-Max-16
+1. PS4
+2. Xbox
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+- Sfp+ ports
+17.
+18. uplink to poe switch
+
+# shop switch
+## USW-Flex-2.5G-8-PoE (196W)
+1. shop wap
+2. shop camera 1
+3. shop camera 2
+4. shop camera 3
+5. shop camera 4
+6. shop camera 5
+7. shop nas
+8. uplink to shed
+- sfp port
+9. uplink to poe switch
+
+# livingroom switch
+# viewing room switch
+# bedroom 1 switch
+# bedroom 2 switch
+# bedroom 3 switch
+# bedroom 4 switch
+
+
+
+
+
+
+
+
+
+
+
