@@ -1,5 +1,5 @@
-|vlan|use|
-|---|---|
+|vlan|use|devices:software
+|---|---|---|
 |05|management|
 |10|storage|
 |15|backend|
